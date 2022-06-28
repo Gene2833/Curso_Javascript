@@ -16,6 +16,6 @@ if (tratamiento === 1) {
 
 const calcularIva = 0.19; {
     let total = tratamiento * calcularIva;
-    alert(`El precio total con descuento es de: $ ` + total);
+    alert(`El precio total con iva es de: $ ` + total);
 }
 
