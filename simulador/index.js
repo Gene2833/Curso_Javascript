@@ -15,7 +15,7 @@ if (tratamiento === 1) {
 }
 
 const calcularIva = 0.19; {
-    let total = facial * calcularIva;
+    let total = tratamiento * calcularIva;
     alert(`El precio total con descuento es de: $ ` + total);
 }
 
